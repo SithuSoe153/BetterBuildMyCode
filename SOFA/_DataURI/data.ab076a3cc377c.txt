@@ -1,0 +1,1 @@
+chrome-extension://mjddjgeghkdijejnciaefnkjmkafnnje/src/ConfigurationManager.js

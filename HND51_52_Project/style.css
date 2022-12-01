@@ -1,0 +1,14 @@
+#tableformat
+{
+	border:1px #000 solid;
+	width:400px;
+	border-radius:5px;
+	font-family: tahoma;
+	font-size: 13px;
+
+}
+
+body
+{
+	background-color: #ccc;
+}

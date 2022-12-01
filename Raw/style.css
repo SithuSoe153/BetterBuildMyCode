@@ -1,0 +1,20 @@
+
+
+h1{color:green;}
+
+table {
+    background-color: #ffffff;
+    filter: alpha(opacity=40);
+    opacity: 0.95;
+    border:1px rgb(83, 83, 83) solid;
+    
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f5f1f1;
+  }

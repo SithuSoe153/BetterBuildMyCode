@@ -1,0 +1,28 @@
+.count {
+    text-align: center;
+    padding-left: 28px;
+    padding-bottom: 20px;
+    position: absolute;
+    font-size: 11px;
+    color: white;
+    top: 1.9px;
+    right: -2.2px;
+    display: flex;
+}
+
+.count:hover {
+    /* position: absolute; */
+    top: -2px;
+    transition-duration: 0.1s;
+
+}
+
+form{
+width: 100%;
+height: 100%;
+}
+
+
+table.ttble{
+width:100%; border:1px solid black; overflow-x:auto;
+}
